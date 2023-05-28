@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Train", "01. Train\01. Train.csproj", "{53D4548A-5D24-4016-820F-DA143480A280}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Common Elements", "02. Common Elements\02. Common Elements.csproj", "{67D99F3E-A603-47D1-B414-B29398EF3955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Zig-Zag Arrays", "03. Zig-Zag Arrays\03. Zig-Zag Arrays.csproj", "{14C6EE1D-166C-4870-B63A-41295DF68C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{53D4548A-5D24-4016-820F-DA143480A280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53D4548A-5D24-4016-820F-DA143480A280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53D4548A-5D24-4016-820F-DA143480A280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D99F3E-A603-47D1-B414-B29398EF3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D99F3E-A603-47D1-B414-B29398EF3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D99F3E-A603-47D1-B414-B29398EF3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D99F3E-A603-47D1-B414-B29398EF3955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C6EE1D-166C-4870-B63A-41295DF68C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C6EE1D-166C-4870-B63A-41295DF68C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C6EE1D-166C-4870-B63A-41295DF68C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C6EE1D-166C-4870-B63A-41295DF68C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

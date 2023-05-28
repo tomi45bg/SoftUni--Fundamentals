@@ -1,4 +1,6 @@
-﻿namespace _01._Train
+﻿using System;
+
+namespace _01._Train
 {
     internal class Program
     {
@@ -17,8 +19,10 @@
 
             for (int i = 0;i < count; i++)
             {
-                Console.WriteLine(numbers[i]);
+                Console.Write(numbers[i] + " ");
             }
+
+            Console.WriteLine();
 
             Console.WriteLine(sum);
         }
