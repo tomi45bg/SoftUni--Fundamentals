@@ -1,0 +1,15 @@
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.exe
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.deps.json
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.runtimeconfig.json
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.dll
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.pdb
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.dll
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\refint\05. Add and Subtract.dll
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.pdb
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.genruntimeconfig.cache
+C:\Users\tomas\Desktop\SoftUni--Fundamentals--C\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\ref\05. Add and Subtract.dll
