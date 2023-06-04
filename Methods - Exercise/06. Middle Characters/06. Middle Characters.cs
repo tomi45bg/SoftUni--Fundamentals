@@ -15,7 +15,7 @@ namespace _06._Middle_Characters
             } else
             {
                 middle += text[text.Length / 2 - 1];
-                middle += text[text.Length / 2 + 1];
+                middle += text[text.Length / 2 ];
             }
 
             return middle;
