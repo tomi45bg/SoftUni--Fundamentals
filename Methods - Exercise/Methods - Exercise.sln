@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{14AEC0D0-49D3-4A99-B9F8-F7D159362FE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{0950977A-F90C-4C2B-98D0-23EEFECE423A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{14AEC0D0-49D3-4A99-B9F8-F7D159362FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14AEC0D0-49D3-4A99-B9F8-F7D159362FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14AEC0D0-49D3-4A99-B9F8-F7D159362FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0950977A-F90C-4C2B-98D0-23EEFECE423A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0950977A-F90C-4C2B-98D0-23EEFECE423A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0950977A-F90C-4C2B-98D0-23EEFECE423A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0950977A-F90C-4C2B-98D0-23EEFECE423A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
