@@ -1,32 +1,39 @@
 ﻿using System;
-using System.Linq;
 
 namespace _08._Factorial_Division
 {
-    internal class Program
+    class Program
     {
-        static int factoriel(int num)
-        {
-            int fact = 1;
-
-            while (num > 0)
-            {
-                fact *= num;
-                num -= 1;
-            }
-
-            return fact;
-        }
         static void Main(string[] args)
         {
-            int num1 = int.Parse(Console.ReadLine());
-            int num2 = int.Parse(Console.ReadLine());
+            decimal firstNum = decimal.Parse(Console.ReadLine());
+            decimal secondNum = decimal.Parse(Console.ReadLine());
 
-            int fact1 = factoriel(num1);
-            int fact2 = factoriel(num2);
-            int fact = fact1 / fact2;
+            if (firstNum == 0)
+            {
+                firstNum = 1;
+            }
+            if (secondNum == 0)
+            {
+                secondNum = 1;
+            }
 
-            Console.WriteLine($"{fact:f2}");
+            decimal result = Facturiel(firstNum) / Facturiel(secondNum);
+
+            Console.WriteLine($"{result:f2}");
+
+        }
+
+        private static decimal Facturiel(decimal n)
+        {
+            decimal sum = 1;
+
+            for (decimal i = n; i > 0; i--)
+            {
+                sum *= i;
+            }
+
+            return sum;
         }
     }
 }
