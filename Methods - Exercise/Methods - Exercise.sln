@@ -3,25 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{14AEC0D0-49D3-4A99-B9F8-F7D159362FE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Smallest of Three Numbers", "01. Smallest of Three Numbers\01. Smallest of Three Numbers.csproj", "{14AEC0D0-49D3-4A99-B9F8-F7D159362FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{0950977A-F90C-4C2B-98D0-23EEFECE423A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Vowels Count", "02. Vowels Count\02. Vowels Count.csproj", "{0950977A-F90C-4C2B-98D0-23EEFECE423A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Characters in Range", "03. Characters in Range\03. Characters in Range.csproj", "{34F763EE-0B0E-4465-A6C2-3F51A2A09597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Characters in Range", "03. Characters in Range\03. Characters in Range.csproj", "{34F763EE-0B0E-4465-A6C2-3F51A2A09597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Validator", "04. Password Validator\04. Password Validator.csproj", "{B340499D-E5EA-4A12-85C9-F6AFA1598C9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Password Validator", "04. Password Validator\04. Password Validator.csproj", "{B340499D-E5EA-4A12-85C9-F6AFA1598C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Add and Subtract", "05. Add and Subtract\05. Add and Subtract.csproj", "{63759BD1-6EA1-4E00-ADF7-2156BDA909FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Add and Subtract", "05. Add and Subtract\05. Add and Subtract.csproj", "{63759BD1-6EA1-4E00-ADF7-2156BDA909FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Middle Characters", "06. Middle Characters\06. Middle Characters.csproj", "{25422EB3-5BC6-44A5-93B9-9A98EC838EB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Middle Characters", "06. Middle Characters\06. Middle Characters.csproj", "{25422EB3-5BC6-44A5-93B9-9A98EC838EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. NxN Matrix", "07. NxN Matrix\07. NxN Matrix.csproj", "{8E01116D-C228-445B-9C8A-FF0B5AAF5957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. NxN Matrix", "07. NxN Matrix\07. NxN Matrix.csproj", "{8E01116D-C228-445B-9C8A-FF0B5AAF5957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division", "08. Factorial Division\08. Factorial Division.csproj", "{0B0AD116-2417-484D-87BB-6106464ADB82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Factorial Division", "08. Factorial Division\08. Factorial Division.csproj", "{0B0AD116-2417-484D-87BB-6106464ADB82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Integers", "09. Palindrome Integers\09. Palindrome Integers.csproj", "{0218FC11-3DC6-49D8-8A2E-2D88213983EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrome Integers", "09. Palindrome Integers\09. Palindrome Integers.csproj", "{0218FC11-3DC6-49D8-8A2E-2D88213983EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number", "10. Top Number\10. Top Number.csproj", "{CB49D766-7715-49F6-AB26-D58ED5657F15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Top Number", "10. Top Number\10. Top Number.csproj", "{CB49D766-7715-49F6-AB26-D58ED5657F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array Manipulator", "11. Array Manipulator\11. Array Manipulator.csproj", "{391DE788-46FF-46C5-BE13-25A5A509AAC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CDECE0BF-9C96-4E66-BF95-31866685D4A9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +76,10 @@ Global
 		{CB49D766-7715-49F6-AB26-D58ED5657F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB49D766-7715-49F6-AB26-D58ED5657F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB49D766-7715-49F6-AB26-D58ED5657F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391DE788-46FF-46C5-BE13-25A5A509AAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391DE788-46FF-46C5-BE13-25A5A509AAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391DE788-46FF-46C5-BE13-25A5A509AAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391DE788-46FF-46C5-BE13-25A5A509AAC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
