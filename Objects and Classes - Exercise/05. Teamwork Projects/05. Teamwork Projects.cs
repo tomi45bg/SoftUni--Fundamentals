@@ -92,7 +92,7 @@ namespace _05._Teamwork_Projects
 
         static void sortAscendingOrder(List<Team> teams)
         {
-
+            asf
         }
 
         static bool sameTeamJoining(string name, List<Team> teams)
